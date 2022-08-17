@@ -1,0 +1,11 @@
+this is the game i was making in A-level computer science,
+how to play
+to start load up main_menu.py to launch the game. From there you have options to choose, press play game to play.
+from here you can press the escape key to see the key binds and even change them to fit your game style by pressing the keybind with your mouse
+and then pressing the new key you want it to become.
+when you die or quit the game an input box will show up simply type your name then click the box with the mouse and it will take you back to the main menu
+
+things that dont work or havnt finished:
+.scoreboard system kinda buggy
+.pressing scoreboard in the main menu doesnt work anymore
+.
